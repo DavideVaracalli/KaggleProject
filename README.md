@@ -1,4 +1,4 @@
-# # KaggleProject
+# KaggleProject
 
 In [home-data-for-ml-course](https://github.com/DavideVaracalli/KaggleProject) folder there are all information about data description of different features present in the training and in the test sets (With 79 explanatory variables describing almost every aspect of residential homes in Ames, Iowa)
 
